@@ -1,0 +1,1 @@
+Python script that utilizes Gradio to create a web application for converting HEIC images to JPEG format. The script should enable users to upload HEIC files, automatically convert them to JPEG, and then download the JPEG files
