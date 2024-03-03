@@ -17,7 +17,7 @@ This project provides a web application for converting images between various fo
 ### Setup
 1. Clone this repository or download the source code.
     ```
-    git clone https://github.com/Jayscu/image-converter.git
+    git clone https://github.com/Jayscu/heic-converter.git
     cd image-converter
     ```
 2. Install required dependencies.
